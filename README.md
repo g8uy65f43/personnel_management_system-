@@ -1,10 +1,15 @@
 # HamburgerDeliveryApp
 ## 使い方
 1.このプロジェクトをダウンロード　
+
 2．nginx-1.22.0-tlias.rarを解凍  
+
 3．Mysqlにtliasを作成して、nginx-1.22.0-tliasファイルにあるTestDate.sqlを使って、データーを導入してから使ってください
+
 4．nginx.exe起動する
+
 5．PersonnelManagementSystemApplicationを起動する
+
 6.http://localhost:90　でシステムページを開く
 
 ## 詳細
