@@ -18,7 +18,9 @@
 6．MyPMS.exeを起動する(文字化けの可能性があり、解決法はIDEAにてPersonnelManagementSystemApplication.javaで起動すること)
 ![image](https://github.com/g8uy65f43/personnel_management_system-/assets/105122594/754676cc-5adb-4e3b-9b45-99814eb39e3b)
 
-7."http://localhost:90"でシステムページを開く
+7.http://localhost:90
+
+でシステムページを開く
 
 ※Vueのソースコードはvue-adminにあります。
 
