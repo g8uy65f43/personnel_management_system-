@@ -15,12 +15,17 @@
 
 ## 詳細
 JAVAのSpring Boot とVue合わせて、作った教諭管理システムです。
-フロントエンドは既に作成されてたものを使って、API等バックエンドについて専念しました。
-JWTとinterceptorのコードがロースしたため、一個前のバージョン使っております。後日書き直す予定です。
-
+Vueでフロントエンド側のものを作り、処理性能・高い並行性・メモリ使用量の小さいNGINX使って、Vueでできたものを載せました。
+このポートフォリオは主にサーバー、APIの設計などを中心に作成しました。
+また、インターセプターとJWTなど用いて、Token作成と検証、フロントエンドとブックエンド両方をうまく連携取れる練習として作ったものです。
 
 
 ## イメージ図　
-<img width="962" alt="image" src="https://github.com/g8uy65f43/personnel_management_system-/assets/105122594/a354182f-52ed-4b6f-9141-b6de2a66e9ad">
-<img width="959" alt="image" src="https://github.com/g8uy65f43/personnel_management_system-/assets/105122594/772ae0fb-1bf4-4831-8128-0232c124bb68">
-<img width="960" alt="image" src="https://github.com/g8uy65f43/personnel_management_system-/assets/105122594/79974b56-bb98-4572-936a-4595fa372898">
+サーバー
+
+サイトページ
+![image](https://github.com/g8uy65f43/personnel_management_system-/assets/105122594/b95427b2-4879-4de8-bac1-d45ed85bcf02)
+![image](https://github.com/g8uy65f43/personnel_management_system-/assets/105122594/1d1c9651-df2a-43e5-8dc4-13eab8874001)
+![image](https://github.com/g8uy65f43/personnel_management_system-/assets/105122594/15686d27-66dc-470d-8511-3e17a87f8245)
+![image](https://github.com/g8uy65f43/personnel_management_system-/assets/105122594/763df75b-e192-4f5c-a1de-241c9d5bf105)
+![image](https://github.com/g8uy65f43/personnel_management_system-/assets/105122594/f15677ea-c096-4be7-8958-376e8d4915ba)
