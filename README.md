@@ -13,6 +13,7 @@
 ![image](https://github.com/g8uy65f43/personnel_management_system-/assets/105122594/fc37e431-1bae-4cd9-a52a-9ef8f9cabde7)
 
 5．nginx.exe起動する(pathに漢字，仮名ないところに開いてください)
+!!JDK21、環境変数がすべて配置してかやってください
 ![image](https://github.com/g8uy65f43/personnel_management_system-/assets/105122594/f7fc4484-4026-4832-baff-22d8792f28e1)
 
 6．MyPMS.exeを起動する(文字化けの可能性があり、解決法はIDEAにてPersonnelManagementSystemApplication.javaで起動すること)
