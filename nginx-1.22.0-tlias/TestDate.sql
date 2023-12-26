@@ -1,3 +1,7 @@
+CREATE DATABASE  IF NOT EXISTS `tlias` ;
+USE `tlias`;
+
+
 create table dept
 (
     id          int unsigned primary key auto_increment comment '主キーID',
